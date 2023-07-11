@@ -14,4 +14,5 @@ https://prnt.sc/hQunkSzo6CsM
 
 
 node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH
+
 https://prnt.sc/wVwQyh0kmlp9
